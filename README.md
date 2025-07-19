@@ -33,13 +33,12 @@ This is a simulated **Electronic Voting Machine (EVM)** built using Arduino Uno,
 The project is created using [Tinkercad Circuits](https://www.tinkercad.com/), which allows full simulation without any physical hardware.
 
 🔗 **[Click here to open the simulation](https://www.tinkercad.com/things/8GUR59uuk9Z/editel?returnTo=%2Fdashboard&sharecode=0FnaoimXcOV9dB_1VnzL9TFb49s-Cq9ijkAHWF00loA)**  
-> _Make sure your project is set to "Anyone with the link can view"._
+
 
 ---
 
 ## 📂 Repository Structure
-digital-voting-machine/ ├── voting_machine.ino       # Arduino source code ├── simulation_link.txt      # Tinkercad URL ├── README.md                # This file └── circuit_diagram.png      # (Optional) Circuit screenshot from Tinkercad
----
+
 
 ## 🚀 Getting Started
 
